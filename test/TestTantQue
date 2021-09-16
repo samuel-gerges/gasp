@@ -1,0 +1,8 @@
+Var angle;
+Var cpt;
+Debut
+angle = 0-90;
+cpt = 2;
+BasPinceau;
+TantQue cpt Faire Si 1 Alors Debut Avance 100; cpt = cpt-1; Fin Sinon cpt=cpt-1;
+Fin

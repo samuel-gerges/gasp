@@ -1,0 +1,18 @@
+Var angle;
+Debut
+angle = 0-90;
+BasPinceau;
+Avance 100;
+Si 0 Alors ChangeCouleur bleu Fsi;
+ChangeEpaisseur 5;
+Tourne angle;
+Avance 100;
+ChangeCouleur noir;
+ChangeEpaisseur 0;
+Tourne angle;
+Avance 100;
+ChangeCouleur vert;
+ChangeEpaisseur 3;
+Tourne angle;
+Avance 100;
+Fin
