@@ -1,7 +1,7 @@
 Auteur
 ======
 
-Gerges Samuel 71804327 (MONÔME)
+Gerges Samuel
 
 Parties traitées et architecture
 ================================
