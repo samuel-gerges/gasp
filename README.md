@@ -1,3 +1,11 @@
+Le but de ce projet est de concevoir et d'implémenter un interpréteur pour la création d'images.
+L'interpréteur va prendre ses instructions dans un fichier texte et dessiner à l'écran une image
+construite à partir de ces instructions. Les instructions permettent de déplacer verticalement
+ou horizontalement un curseur virtuel. Si le curseur est en position basse chaque déplacement
+laisse une trace noire, s'il est en position haute le déplacement n'écrit rien. Les instructions
+permettent aussi de tourner le curseur dans le sens trigonométrique (c'est-à-dire dans le sens
+inverse des aiguilles d'une montre), par un angle donné en degrés.
+
 Auteur
 ======
 
